@@ -42,8 +42,8 @@
 ## 4. SwiftUI 뷰를 다른 파일로 분리하기(1부)
 
 * [4.1. SwiftUI View 분리하기(다른파일로 View 옮기기)](4.-swiftui-1/4.1.-swiftui-view-view.md)
-* [4.2. SwiftUI View vs Swift File](4.-swiftui-1/4.2.-swiftui-view-vs-swift-file.md)
-* [4.3. SwiftUI View 분리 복습하기](4.-swiftui-1/4.3.-swiftui-view.md)
+* [4.2. SwiftUI View 분리 복습하기](4.-swiftui-1/4.3.-swiftui-view.md)
+* [4.3. SwiftUI View vs Swift File](4.-swiftui-1/4.2.-swiftui-view-vs-swift-file.md)
 
 ## 5. 앱에 지도를 넣어보자(MapKit)(1부)
 
